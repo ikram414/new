@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food and Nutrition Blog</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Food and Nutrition Blog</h1>
+        <p>Healthy Eating, Healthy Living!</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#home">Home</a> |
+        <a href="#nutrition">Nutrition</a> |
+        <a href="#healthy-foods">Healthy Foods</a> |
+        <a href="#tips">Healthy Eating Tips</a>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+
+        <section id="home">
+            <h2>Welcome to Our Blog</h2>
+            <p>
+                Welcome to our Food and Nutrition Blog!
+                Here you will learn about healthy eating,
+                balanced diets and the importance of good nutrition.
+            </p>
+        </section>
+
+        <section id="nutrition">
+            <h2>Importance of Nutrition</h2>
+
+            <article>
+                <h3>Why Is Good Nutrition Important?</h3>
+                <p>
+                    Good nutrition helps our bodies grow,
+                    stay strong and fight diseases. Eating
+                    a balanced diet gives us the energy
+                    we need for everyday activities.
+                </p>
+            </article>
+
+            <article id="healthy-foods">
+                <h3>Five Healthy Foods to Eat</h3>
+                <ul>
+                    <li>Fruits</li>
+                    <li>Vegetables</li>
+                    <li>Whole grains</li>
+                    <li>Fish and eggs</li>
+                    <li>Nuts and beans</li>
+                </ul>
+            </article>
+        </section>
+
+        <section id="tips">
+            <h2>Healthy Eating Tips</h2>
+
+            <article>
+                <h3>Tips for a Healthy Lifestyle</h3>
+                <ol>
+                    <li>Drink plenty of water.</li>
+                    <li>Eat fruits and vegetables daily.</li>
+                    <li>Avoid too much sugary food.</li>
+                    <li>Exercise regularly.</li>
+                    <li>Eat a balanced diet.</li>
+                </ol>
+            </article>
+        </section>
+
+        <!-- Aside Note -->
+        <aside>
+            <h3>Did You Know?</h3>
+            <p>
+                Drinking enough water helps regulate
+                body temperature and keeps you hydrated.
+            </p>
+        </aside>
+
+        <!-- Figures and Captions -->
+        <section>
+            <h2>Healthy Food Gallery</h2>
+
+            <figure>
+                <img src="https://placehold.co/400x250?text=Fresh+Fruits"
+                     alt="Fresh fruits"
+                     width="300">
+                <figcaption>A variety of fresh and nutritious fruits.</figcaption>
+            </figure>
+
+            <figure>
+                <img src="https://placehold.co/400x250?text=Healthy+Vegetables"
+                     alt="Fresh vegetables"
+                     width="300">
+                <figcaption>Vegetables provide vitamins and minerals.</figcaption>
+            </figure>
+        </section>
+
+        <!-- External Links -->
+        <section>
+            <h2>Learn More About Nutrition</h2>
+            <p>
+                Visit these websites to learn more:
+            </p>
+
+            <a href="https://www.who.int/health-topics/healthy-diet"
+               target="_blank">World Health Organization</a>
+            <br>
+
+            <a href="https://www.nhs.uk/live-well/eat-well/"
+               target="_blank">NHS Healthy Eating Guide</a>
+        </section>
+
+        <!-- Embedded Video -->
+        <section>
+            <h2>Watch a Healthy Eating Video</h2>
+
+            <iframe
+                width="400"
+                height="250"
+                src="https://www.youtube.com/embed/VIDEO_ID"
+                title="Healthy Eating Video"
+                allowfullscreen>
+            </iframe>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Food and Nutrition Blog. All Rights Reserved.</p>
+        <p>Created by Class 7B</p>
+    </footer>
+
+</body>
+</html>
+
